@@ -1,0 +1,5 @@
+host="localhost"
+database="steam_data"
+user="postgres"
+password="19052812"
+port="5432"
