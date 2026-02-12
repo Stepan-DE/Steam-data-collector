@@ -1,5 +1,5 @@
 host="localhost"
 database="steam_data"
 user="postgres"
-password="19052812"
+password="********"
 port="5432"
